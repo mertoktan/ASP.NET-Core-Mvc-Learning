@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\merto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\merto\\.nuget\\packages"
+    ]
+  }
+}

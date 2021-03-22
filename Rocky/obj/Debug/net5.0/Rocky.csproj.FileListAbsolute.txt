@@ -431,3 +431,5 @@ C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\bin\Debug\net5.0\runt
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\CategoryController1\Index.cshtml.g.cs
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\CategoryController1\Create.cshtml.g.cs
+C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
+C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs

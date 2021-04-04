@@ -437,3 +437,5 @@ C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razo
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\CategoryController1\Delete.cshtml.g.cs
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
 C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs
+C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ProductController1\Index.cshtml.g.cs
+C:\Users\merto\Desktop\ASP.NET Core 5 with MVC\Rocky\Rocky\obj\Debug\net5.0\Razor\Views\ProductController1\Upsert.cshtml.g.cs
